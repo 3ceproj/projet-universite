@@ -15,7 +15,7 @@ include('load.php');
 
 	<table class="table table-hover">
 		<thead>
-			<tr>
+			<tr> 
 				<th class="">titre</th>
 				<th class="">Description</th>
 				<th class="">image</th>
